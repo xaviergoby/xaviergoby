@@ -24,7 +24,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <img src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxaviergoby">
+    <img src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
+  </a>
 </div>
 
 
