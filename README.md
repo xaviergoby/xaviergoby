@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
 </div>
 
-[![GitHub geoffreygarrett](https://img.shields.io/github/followers/geoffreygarrett?label=follow&style=social)](https://github.com/geoffreygarrett)
-
 
 
 <!-- - 👋 Hi, I’m @xaviergoby
