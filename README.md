@@ -12,7 +12,7 @@
   </h1>
   <img src="https://media.tenor.com/jjADcY68aA0AAAAM/waving-bear-hi.gif">
   <div id="badges" align="center" style="margin-left:25.5em">
-    <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<!--     <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
     <a href="https://www.linkedin.com/in/xavier-goby/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width:11%" alt="LinkedIn Badge"/>
     </a>
