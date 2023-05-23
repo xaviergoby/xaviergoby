@@ -66,14 +66,14 @@
     </a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
 <!-- 	<img align="left" height=318.75 width=450 src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&theme=gruvbox" /> -->
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak">
 <!-- 	<img align="right" height=337.5 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=gruvbox" /> -->
 	<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=xaviergoby&show_icons=true&theme=gruvbox" />
-</a>
+</a> -->
 
 
 <!-- - 👋 Hi, I’m @xaviergoby
