@@ -43,21 +43,25 @@
     <a href="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&include_all_commits=true&theme=light/#gh-light-mode-only">
       <img width="420px"
            alt="stats"
+	   align="center"
            src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&include_all_commits=true&theme=gruvbox" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&include_all_commits=true&theme=dark/#gh-dark-mode-only">
       <img width="420px"
            alt="stats"
+	   align="center"
            src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&include_all_commits=true&theme=gruvbox" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=xaviergoby&theme=light/#gh-light-mode-only">
       <img width="420px"
            alt="xaviergoby"
+	   align="center"
            src="https://github-readme-streak-stats.herokuapp.com/?user=xaviergoby&theme=gruvbox" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=xaviergoby&theme=dark/#gh-dark-mode-only">
       <img width="420px"
            alt="xaviergoby"
+	   align="center"
            src="https://github-readme-streak-stats.herokuapp.com/?user=xaviergoby&theme=gruvbox" />
     </a>
 </p>
