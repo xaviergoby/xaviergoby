@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/xavier-goby/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width:11%" alt="LinkedIn Badge"/>
     </a>
-    <a href="[xaviergoby.com](https://frustrated-autodidact.notion.site/The-Frustrated-Mordern-Day-Autodidactic-Alchemist-text-FMDA-2-148298cfc8f24bb9817bf636ecb6f985)">
+    <a href="https://frustrated-autodidact.notion.site/The-Frustrated-Mordern-Day-Autodidactic-Alchemist-text-FMDA-2-148298cfc8f24bb9817bf636ecb6f985">
       <img src="https://frustrated-autodidact.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d29db62-d5a6-4f9e-91cb-36b10b79aa1a%2FXG_custom_created_icon_v2.ico?table=block&id=148298cf-c8f2-4bb9-817b-f636ecb6f985&spaceId=5769cc3a-a381-4a17-99a7-e5217a6fe1f0&userId=&cache=v2" alt="Frustrated Autodidact Personal Notion Portfolio & Blog on xaviergoby.com"/>
     </a>
     <a href="https://www.researchgate.net/profile/Xavier-Goby">
