@@ -38,12 +38,11 @@
 
 
 ## My GitHub Stats
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" height=425 width=425 src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&theme=gruvbox" />
+	<img align="left" height=425 width=425 src="https://github-readme-stats.vercel.app/api?username=xaviergoby&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak">
-	<img align="center" height=450 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=gruvbox" />
+	<img align="right" height=450 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=gruvbox" />
 </a>
 
 
