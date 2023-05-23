@@ -5,12 +5,39 @@
   <img src="https://frustrated-autodidact.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d29db62-d5a6-4f9e-91cb-36b10b79aa1a%2FXG_custom_created_icon_v2.ico?table=block&id=148298cf-c8f2-4bb9-817b-f636ecb6f985&spaceId=5769cc3a-a381-4a17-99a7-e5217a6fe1f0&userId=&cache=v2" width="800" height="270"/>
 </div> -->
 
+   
+
 <div id="header" align="center">
   <h1>
+    <img src="https://images.squarespace-cdn.com/content/v1/584ac727c534a52d610a4a4a/1633709369722-QXXEQYJ8OYVZKN7FVR4A/EYES.gif?format=2500w" width="30px"/>
     HELLO!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <img src="https://media.tenor.com/jjADcY68aA0AAAAM/waving-bear-hi.gif">
+	
+  <p align="center">
+      <img width="250px"
+	   height="250px"
+	   margin="0px"
+	   padding="0px"
+           alt="stats"
+	   align="center"
+           src="https://media.tenor.com/U92u3vZRf3sAAAAM/bear_waving-hi.gif" />
+      <img width="250px"
+	   height="250px"
+	   margin="0px"
+	   padding="0px"
+           alt="stats"
+	   align="center"
+           src="https://media.tenor.com/jjADcY68aA0AAAAM/waving-bear-hi.gif" />
+      <img width="250px"
+	   height="250px"
+	   margin="0px"
+	   padding="0px"
+           alt="xaviergoby"
+	   align="center"
+           src="https://media.tenor.com/qdgq6lajEfAAAAAM/bear-midoo.gif" />
+</p>
+	
   <div id="badges" align="center" style="margin-left:25.5em">
 <!--     <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
     <a href="https://www.linkedin.com/in/xavier-goby/">
