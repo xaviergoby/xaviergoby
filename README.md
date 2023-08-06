@@ -50,6 +50,7 @@
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" style="width:15%" alt="ResearchGate Badge"/>
     </a>
   
+  <!-- </div> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xaviergoby?label=Total%20Stars&color=gold">
@@ -58,9 +59,9 @@
     <img padding="100px" src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
   </a>
   
+<!-- </div> -->
+
 </div>
-
-
 
 
 ## Languages I code in 👨‍💻️
@@ -69,11 +70,14 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<p align="center" padding="100px">
-<a align="center" padding="100px" href="https://github.com/ryo-ma/github-profile-trophy">
-	<img align="center" padding="100px" src="https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C" alt="Xavier Goby" />
-</a>
-</p>
+
+## GitHub "Trophies" 🏆
+<div  style="margin-right: 900px;">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 
 
 ## My GitHub Stats
