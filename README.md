@@ -52,9 +52,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxaviergoby">
-    <img src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
+    <img padding="100px" src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
   </a>
+  
 </div>
+
+
 
 
 ## Languages I code in 👨‍💻️
@@ -62,6 +65,12 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+<p align="center" padding="100px">
+<a align="center" padding="100px" href="https://github.com/ryo-ma/github-profile-trophy">
+	<img align="center" padding="100px" src="https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C" alt="Xavier Goby" />
+</a>
+</p>
 
 
 ## My GitHub Stats
@@ -93,7 +102,9 @@
     </a>
 </p>
 
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviergoby" alt="Xavier Goby" /></a> </p> -->
 
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C" alt="Xavier Goby" /></a> </p> -->
 
 
 <!-- - 👋 Hi, I’m @xaviergoby
