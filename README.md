@@ -49,8 +49,11 @@
     <a href="https://www.researchgate.net/profile/Xavier-Goby">
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" style="width:15%" alt="ResearchGate Badge"/>
     </a>
+  
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xaviergoby?label=Total%20Stars&color=gold">
+
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxaviergoby">
     <img padding="100px" src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
   </a>
