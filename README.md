@@ -1,12 +1,3 @@
-
-<!-- ![Xavier Goby - Polar Bear (72 × 20 in) (72 × 14 in)(2)](https://media.tenor.com/jjADcY68aA0AAAAM/waving-bear-hi.gif) -->
-
-<!-- <div align="center">
-  <img src="https://frustrated-autodidact.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d29db62-d5a6-4f9e-91cb-36b10b79aa1a%2FXG_custom_created_icon_v2.ico?table=block&id=148298cf-c8f2-4bb9-817b-f636ecb6f985&spaceId=5769cc3a-a381-4a17-99a7-e5217a6fe1f0&userId=&cache=v2" width="800" height="270"/>
-</div> -->
-
-   
-
 <div id="header" align="center">
   <h1>
     <img src="https://images.squarespace-cdn.com/content/v1/584ac727c534a52d610a4a4a/1633709369722-QXXEQYJ8OYVZKN7FVR4A/EYES.gif?format=2500w" width="30px"/>
@@ -39,7 +30,6 @@
 </p>
 	
   <div id="badges" align="center" style="margin-left:25.5em">
-<!--     <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
     <a href="https://www.linkedin.com/in/xavier-goby/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style="width:11%" alt="LinkedIn Badge"/>
     </a>
@@ -50,7 +40,6 @@
       <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" style="width:15%" alt="ResearchGate Badge"/>
     </a>
   
-  <!-- </div> -->
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/xaviergoby?label=Total%20Stars&color=gold">
@@ -58,8 +47,6 @@
   <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fxaviergoby">
     <img padding="100px" src="https://img.shields.io/github/followers/xaviergoby?label=follow&style=social" alt=""/>
   </a>
-  
-<!-- </div> -->
 
 </div>
 
@@ -72,9 +59,21 @@
 
 
 ## GitHub "Trophies" 🏆
-<div  style="margin-right: 900px;">
+<div  style="margin-right:900px;">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details>
+<summary>Ranks are <b>SSS</b>/<b>SS</b>/<b>S</b> and <b>AAA</b>/<b>AA</b>/<b>A</b></summary>
+
+|  Rank  |  Description  |
+| ---- | ---- |
+|  SSS, SS, S  | You are at a hard to reach rank. You can brag.  |
+|  AAA, AA, A  | You will reach this rank if you do your best. Let's aim here first.  |
+
+Source: <a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a>
+
+</details>
 
 </div>
 
@@ -109,18 +108,11 @@
     </a>
 </p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviergoby" alt="Xavier Goby" /></a> </p> -->
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviergoby&rank=-?,-C" alt="Xavier Goby" /></a> </p> -->
+👋 Hi, I’m @xaviergoby
+- 👀 I’m interested  AI/ML/DL, Data Science, FinTech, Software Engineering, Aerospace Engineering, Computer Vision & Geomatics
+- 🌱 I’m currently a Senior FinTech Data Scientist currently focused on Regulatory & Supervisory Tech (RegTech & SupTech) 
+- 💞️ Open to any & all collaborations
+- 📫 Reach me via: xgoby **at** _hotmal_ *dot* com 
 
 
-<!-- - 👋 Hi, I’m @xaviergoby
-- 👀 I’m interested  ...
-- 🌱 I’m currently ...
-- 💞️ I’m looking to collab ...
-- 📫 How to reach me ... -->
-
-<!---
-xaviergoby/xaviergoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
